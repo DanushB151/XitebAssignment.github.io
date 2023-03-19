@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Head Office",
+        "phone" : "011 5 123 123" ,
+        "address": "No.19, Port City, Colombo",
+        "location" : ""
+    },
+    {
+        "name":"Corpatate Office",
+        "phone" : "011 5 123 123" ,
+        "address": "No. 100, Union Place, Colombo-2",
+        "location" : ""
+    },
+    {
+        "name":"Kandy Main Branch",
+        "phone" : "011 5 123 123" ,
+        "address": "No.1, Dlalada Weediya, Kandy",
+        "location" : ""
+    },
+    {
+        "name":"Kurunagala Branch",
+        "phone" : "011 5 123 123" ,
+        "address": "No. 22 , Parakum Mawatha, Kurunagala",
+        "location" : ""
+    },
+    {
+        "name":"Galle Branch",
+        "phone" : "011 5 123 123" ,
+        "address": "N0 122 main street Galle",
+        "location" : ""
+    }
+]

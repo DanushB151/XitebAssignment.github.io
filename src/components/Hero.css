@@ -1,0 +1,38 @@
+.cont, h1{
+    position: relative;
+    left: 30%;
+    top: 30%;
+}
+
+.hero{
+    background-image:
+            linear-gradient(45deg,
+              rgba(245,70,66, 0.75),
+              rgba(8,83,156, 0.75)), url('../assest/hero.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+/* background-position: center; */
+}
+
+.hero-right{
+    position: relative;
+}
+.hero-icon{
+    border-radius:  50px 0 0 50px ;
+    width: 100px;
+    height: 60px;
+    background-color: antiquewhite;
+    opacity: 0.4;
+    /* position: absolute; */
+    right: 0;
+    top: 10px;
+    cursor: pointer;
+}
+
+.hero-icon:hover{
+    background-color: red;
+}
+
+.hero-icon i{
+    margin-right: 40px;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "a",
+        "desc":"ONLINE BANKING",
+        "cont":"Securing and Financing Indipendent",
+        "image" : "https://i.pinimg.com/564x/ea/ba/76/eaba76a0e427a495a9a050028f821931.jpg"
+    },
+    {
+        "id": "b",
+        "desc":"LOCATE US",
+        "cont":"We Close for Your Door",
+        "image": "https://i.pinimg.com/564x/d8/69/bf/d869bf7930e9a2cfed1499908a334f5a.jpg"
+
+    },
+    {
+        "id": "c",
+        "desc":"ACCOUNTS",
+        "cont":"The Rigth Account for Your Business",
+        "image": "https://i.pinimg.com/564x/49/db/c7/49dbc7849a072013f8599bc79bc9c6da.jpg"
+    },
+    {
+        "id": "d",
+        "desc":"LOANS & ADVANCES",
+        "cont":"Fostering Grouth Your Business",
+        "image": "https://i.pinimg.com/564x/6a/e7/45/6ae74572d268a7134b4b83e5536f59a5.jpg" },
+    {
+        "id": "e",
+        "desc":"CLOMPIANS",
+        "cont":"Speake With Us",
+        "image":"https://i.pinimg.com/736x/73/c1/ca/73c1ca3230430817192fb7fe871e4fb0.jpg"  },
+    {
+        "name": "f",
+        "desc":"PROUD HERITAGE",
+        "cont":"Footprint Across Four Countinents",
+        "image": "https://i.pinimg.com/564x/96/bb/af/96bbaf056389c7d35790337bc3811280.jpg"
+    }
+    
+]

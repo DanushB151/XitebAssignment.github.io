@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "desc":"ONLINE BANKING",
+        "cont":"Securing and Financing Indipendent",
+        "image" : "https://cdn-icons-png.flaticon.com/128/2889/2889676.png"
+    },
+    {
+        "id": "2",
+        "desc":"LOCATE US",
+        "cont":"We Close for Your Door",
+        "image": "https://cdn-icons-png.flaticon.com/128/2838/2838912.png"
+
+    },
+    {
+        "id": "3",
+        "desc":"ACCOUNTS",
+        "cont":"The Rigth Account for Your Business",
+        "image": "https://cdn-icons-png.flaticon.com/128/2976/2976389.png"
+    },
+    {
+        "id": "4",
+        "desc":"LOANS & ADVANCES",
+        "cont":"Fostering Grouth Your Business",
+        "image": "https://cdn-icons-png.flaticon.com/128/1047/1047792.png" },
+    {
+        "id": "5",
+        "desc":"CLOMPIANS",
+        "cont":"Speke With Us",
+        "image":"https://t3.ftcdn.net/jpg/03/00/16/94/240_F_300169453_6xuLDQnnQUHnCJNctiI7Vzx8uJm20xow.jpg"  },
+    {
+        "name": "6",
+        "desc":"PROUD HERITAGE",
+        "cont":"Footprint Across Four Countinents",
+        "image": "https://cdn-icons-png.flaticon.com/128/3635/3635987.png"
+    },
+    {
+        "name": "7",
+        "desc":"SERVICES",
+        "image" : "https://t3.ftcdn.net/jpg/02/97/90/18/240_F_297901867_0C7uB7AvwcY08GONDEdwzrTdq1nOyGtp.jpg"
+    },
+    {
+        "name": "8",
+        "desc":"OPERATIONS",
+        "image": "https://t3.ftcdn.net/jpg/02/96/27/28/240_F_296272864_7XXe0wavzRXA9zKSkzXxhmZhQbyY8b26.jpg"
+
+    },
+    {
+        "id": "9",
+        "desc":"TRADES & FINANCE",
+        "image": "https://cdn-icons-png.flaticon.com/128/547/547166.png"
+    },
+    {
+        "id": "10",
+        "desc":"ADVISORY SERVICE",
+        "image": "https://cdn-icons-png.flaticon.com/128/4604/4604417.png" },
+    {
+        "id": "11",
+        "desc":"LENDING SOLUTIONS",
+        "image":"https://cdn-icons-png.flaticon.com/128/584/584093.png"  },
+    {
+        "id": "12",
+        "desc":"COPARATE FINANCE",
+        "image": "https://cdn-icons-png.flaticon.com/128/3141/3141815.png"
+    }
+   
+        
+
+    
+
+    
+
+]
+
